@@ -1,0 +1,16 @@
+{
+	"name": "slotbp",
+	"theme": "ui",
+	"version": "1.0.0",
+	"description": "บาคาร่า สล็อต บนโทรศัพท์มือถือ",
+	"keywords": [
+	  "seo",
+	  "สล็อต บนโทรศัพท์มือถือ",
+	  "บาคาร่า"
+	],
+	"repository": "https://github.com/terminaleyes/test",
+	"license": "MIT",
+	"engines": {
+	  "atom": ">=1.0.0 <2.0.0"
+	}
+  }
